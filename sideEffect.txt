@@ -1,0 +1,527 @@
+constitutional symptoms
+increased salivation
+hallucinations
+ataxia
+somnolence
+agitation
+urinary incontinence
+dyskinesia
+urinary retention
+hiccup
+neurosis
+nystagmus
+delirium
+abnormal gait
+tremor
+alopecia
+cancer
+psychosis
+dysarthria
+confusion
+weight loss
+amnesia
+infection
+stomatitis
+ear pain
+urinary urgency
+dysphagia
+tardive dyskinesia
+anorexia
+choreoathetosis
+dry mouth
+neutropenia
+personality disorder
+fibrosis
+polyuria
+diplopia
+hyperacusis
+pseudomembranous colitis
+tachycardia
+pulmonary fibrosis
+dysmenorrhea
+hemorrhage
+glaucoma
+serotonin syndrome
+bradycardia
+postural hypotension
+keratitis
+apnea
+peptic ulcer
+anemia
+amenorrhea
+sepsis
+menorrhagia
+nephrotic syndrome
+neutropenia
+neuralgia
+eye pain
+eczema
+nocturia
+leukopenia
+gingivitis
+lymphadenopathy
+tooth caries
+hemiplegia
+AV block
+pleural effusion
+impotence
+gastrointestinal hemorrhage
+interstitial pneumonitis
+decreased libido
+syncope
+hyperesthesia
+constipation
+postural hypotension
+hypothyroidism
+abuse
+thrombocytopenia
+laryngitis
+tumor
+aphasia
+urinary frequency
+aseptic meningitis
+goiter
+fecal incontinence
+priapism
+suicide attempt
+contact dermatitis
+eructation
+leukocytosis
+vaginal hemorrhage
+ascites
+visual field defect
+tooth disorder
+dehydration
+amblyopia
+bursitis
+weight gain
+kidney calculus
+bundle branch block
+psoriasis
+proteinuria
+ventricular tachycardia
+bruxism
+dizziness
+fecal impaction
+interstitial nephritis
+renal papillary necrosis
+ureteral obstruction
+acute leukemia
+gastroenteritis
+impotence
+hypotension
+rectal hemorrhage
+gastritis
+weakness
+deafness
+Parkinson
+metrorrhagia
+aplastic anemia
+nervousness
+tenosynovitis
+epistaxis
+breast pain
+chest pain
+myelodysplastic syndrome
+nightmares
+photophobia
+neck pain
+palpitations
+cerebral ischemia
+thrombocytopenia
+fever
+rheumatoid arthritis
+eosinophilia
+anxiety
+apraxia
+positive ANA
+galactorrhea
+pneumonia
+cardiac arrest
+asthma
+hypomagnesemia
+chills
+angina pectoris
+neuropathy
+cholecystitis
+leg cramps
+hernia
+spasm
+seborrhea
+burning sensation
+leukemia
+hypocalcemia
+sweating
+interstitial lung disease
+vasculitis
+gum hemorrhage
+cystitis
+muscle cramps
+lymphopenia
+nasal septum perforation
+purpura
+Lipodystrophy
+erythema
+drug dependence
+hypothermia
+kidney pain
+bronchitis
+skin irritation
+palpitations
+hyperuricemia
+migraine
+Stevens - Johnson syndrome
+gastritis
+cholelithiasis
+somnambulism
+breast tenderness
+seizures
+hypercholesterolemia
+coma
+bone pain
+sexual dysfunction
+pyelonephritis
+hypoventilation
+renal failure
+urinary hesitancy
+weight loss
+hematemesis
+agranulocytosis
+hematuria
+halitosis
+hypertension
+pericardial effusion
+tinnitus
+atrial fibrillation
+bradycardia
+iritis
+otitis media
+myasthenia gravis
+vomiting
+acne
+blepharitis
+neck rigidity
+Sterility
+photosensitivity
+dysuria
+esophagitis
+toxic epidermal necrolysis
+scleritis
+ptosis
+gout
+voice alteration
+melena
+arthrosis
+breast enlargement
+drug withdrawal
+sleep disorder
+cerebrovascular accident
+vertigo
+pulmonary embolism
+paralysis
+ulcer
+mastitis
+gastric ulcer
+otitis externa
+memory loss
+movement disorders
+myocardial infarction
+herpes zoster
+facial paralysis
+erythema multiforme
+blurred vision
+hyperpigmentation
+diarrhea
+dehydration
+diverticulitis
+vaginitis
+breast neoplasm
+cough
+osteoporosis
+heart failure
+ventricular extrasystoles
+hypersomnia
+photopsia
+Vestibular Disorders
+Diabetic ketoacidosis
+paralytic ileus
+nausea
+hypoxia
+gynecomastia
+iritis
+leukopenia
+pain
+grand mal
+skin atrophy
+myositis
+dyspnea
+paresthesia
+lung disorder
+ecchymosis
+skin ulcer
+hemorrhoids
+glossitis
+erythema multiforme
+arrhythmia
+flushing
+contact dermatitis
+toxic epidermal necrolysis
+torticollis
+subdural hematoma
+hyperlipidemia
+asthenia
+hypomagnesemia
+cerebrovascular accident
+lymphocytosis
+heartburn
+Endocrine Disorders
+blepharitis
+syncope
+pericarditis
+exfoliative dermatitis
+rhabdomyolysis
+vertigo
+myocardial ischemia
+ECG abnormal
+serum sickness
+edema
+hypophosphatemia
+concentration impaired
+Toothache
+melena
+dysphonia
+mouth ulceration
+hemoptysis
+paranoia
+dementia
+stomatitis
+hypoglycemia
+blepharospasm
+SGOT increased
+epilepsy
+peripheral edema
+herpes zoster
+SIADH
+albuminuria
+Balance disorder
+prostate cancer
+anorexia
+hyperuricemia
+furunculosis
+myalgia
+dyspnea
+acute renal failure
+epididymitis
+cyst
+elevated blood pressure
+hemoptysis
+headache
+claudication
+vaginal moniliasis
+infertility
+hematemesis
+embolism
+viral infection
+arthritis
+hypercarbia
+hypokalemia
+hyperglycemia
+hypertension
+diarrhea
+pyuria
+hyperthyroidism
+asthenia
+irritable bowel syndrome
+pneumonia
+folliculitis
+hepatitis
+hoarseness
+jaundice
+cellulitis
+fatigue
+ventricular fibrillation
+vitreous detachment
+Pneumocystis carinii pneumonia
+anaphylaxis
+bilirubinemia
+bipolar disorder
+diabetes mellitus
+Restless Legs Syndrome
+abnormal electroencephalogram
+forgetful
+angina pectoris
+deep vein thrombosis
+ecchymosis
+cerebral hemorrhage
+ulcerative colitis
+ovarian cancer
+cachexia
+supraventricular extrasystoles
+hypertrichosis
+gout
+duodenal ulcer
+liver function tests abnormal
+urinary tract infection
+dry skin
+abnormal vision
+hypercalcemia
+abscess
+decreased libido
+urethritis
+uterine fibroids
+iron deficiency anemia
+nausea
+rash
+Nasopharyngitis
+hypopigmentation
+varicose vein
+hepatomegaly
+porphyria cutanea tarda
+rhinitis
+hepatic failure
+pneumothorax
+nipple discharge
+conjunctivitis
+cellulitis
+eye pain
+nasal septum perforation
+striae
+urticaria
+colitis
+strabismus
+hypertriglyceridemia
+hyponatremia
+dry eyes
+meningitis
+hyponatremia
+sinus bradycardia
+intestinal perforation
+esophageal spasm
+vomiting
+vitreous floaters
+constipation
+status epilepticus
+hyperhidrosis
+elevated liver enzymes
+pancytopenia
+venous thrombosis
+viral infection
+periodontal abscess
+pulmonary embolism
+anemia
+shock
+lacrimation disorder
+uterine hemorrhage
+miliaria
+breast cancer
+acute renal failure
+edema
+myopia
+lymphoma
+ischemia
+Stevens - Johnson syndrome
+hyperprolactinemia
+nail disorder
+vaginitis
+alkaline phosphatase increased
+Pharyngitis
+abdominal pain
+esophageal varices
+autonomic neuropathy
+asthma
+metrorrhagia
+malaise
+congestive heart failure
+hydronephrosis
+tracheobronchitis
+bullous pemphigus
+Acute Bronchitis
+vomiting
+eructation
+angioedema
+pancytopenia
+dry eyes
+thrombocythemia
+anemia
+fever
+arteritis
+global amnesia
+pancreatitis
+hepatitis B
+pemphigus
+petechiae
+mental depression
+skin ulcer
+leukopenia
+asthenopia
+blepharoptosis
+Aseptic necrosis
+sialadenitis
+neuritis
+hyperparathyroidism
+psychomotor retardation
+cystitis
+vasculitis
+watery eyes
+atelectasis
+endometrial cancer
+thrombophlebitis
+respiratory arrest
+lymphedema
+muscle atrophy
+pleurisy
+alopecia
+renal failure
+bloating
+arrhythmia
+myopathy
+retinal detachment
+bigeminy
+gastrointestinal hemorrhage
+varicella
+ulcerative stomatitis
+dermatitis
+lactic dehydrogenase increased
+osteonecrosis
+flatulence
+cardiac tamponade
+Septicemia
+anaphylaxis
+photophobia
+hyperamylasemia
+hepatic necrosis
+conjunctivitis
+infectious mononucleosis
+neurodermatitis
+stuttering
+artery occlusion
+exostosis
+arthralgia
+hypokalemia
+Pharyngitis
+hearing loss
+flatulence
+back pain
+hematuria
+intracranial hemorrhage
+nausea
+purpura
+transient ischemic attack
+bloating
+heartburn
+cataract
+azotemia
+petechiae
+thrombocytopenia
+fasciitis
+hypochromic anemia
+hypophosphatemia
+CMV infection
+spinal cord disease
+acute febrile neutrophilic dermatosis
+sore throat
+esophagitis
+wheezing
+gastroesophageal reflux
+ischemic colitis
+blepharoconjunctivitis
